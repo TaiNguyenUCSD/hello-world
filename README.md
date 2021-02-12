@@ -1,4 +1,4 @@
 # hello-world
 
-A program that prints Hello World! on Java
+This is all the work that I did in my CSE 12 class
 
